@@ -1,0 +1,7 @@
+=================
+== MaiaraCGobo ==
+== 30102022 =====
+=================
+
+Feito para praticar PySimpleGUI (iniciante)
+Foi usado Figma para criar a simples image/
